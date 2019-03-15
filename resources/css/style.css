@@ -1,0 +1,43 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+h1,
+h2 {
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2{
+  font-sixe: 42px;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.guide {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.remember {
+  color: gray;
+  font-size: 21px;
+}
+
+.footer {
+  color: gray;
+  font-size: 21px;
+  text-align: right;
+}
